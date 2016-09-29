@@ -1,0 +1,4 @@
+
+  1、npm install rnpm --global （安装rnpm）
+  2、npm install react-native-button-component@latest --save  (安装react-native-button-component组件)
+  3、rnpm link react-native-button-component（关联你的安卓工程）
